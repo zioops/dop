@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'b03ac8b4-1356-4381-a727-0cdb9c9dcd8e'}
+UUID=${UUID:-'861ec826-87fc-4d9b-9dfd-9ff60c48bbba'}
 
 # 其他Paas保活
 PAAS1_URL=https://roop.onrender.com
